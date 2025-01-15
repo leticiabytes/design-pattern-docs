@@ -1,7 +1,7 @@
-# 👋 Welcome to A Product
+# 👋 Bem vindo(a) a Frontend do Charlie
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**Charlie:** Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam erat volutpat. Vivamus metus purus, vulputate ut tincidunt sed, dapibus sit amet risus.
 {% endhint %}
 
 ## Overview
@@ -18,17 +18,17 @@ Here are a couple of example overviews from products with really great docs:
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-## Quick links
+## Overview
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/o-que-fazemos.md" %}
+[o-que-fazemos.md](overview/o-que-fazemos.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/nossos-produtos/" %}
+[nossos-produtos](overview/nossos-produtos/)
 {% endcontent-ref %}
 
-## Get Started
+## Fundamentals
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
@@ -36,10 +36,25 @@ We've put together some helpful guides for you to get setup with our product qui
 [getting-set-up](fundamentals/getting-set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="fundamentals/getting-set-up/configuracao-de-ambiente.md" %}
+[configuracao-de-ambiente.md](fundamentals/getting-set-up/configuracao-de-ambiente.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="fundamentals/getting-set-up/configuracao-de-ferramentas.md" %}
+[configuracao-de-ferramentas.md](fundamentals/getting-set-up/configuracao-de-ferramentas.md)
 {% endcontent-ref %}
+
+
+
+## Others
+
+{% content-ref url="others/links-importantes.md" %}
+[links-importantes.md](others/links-importantes.md)
+{% endcontent-ref %}
+
+{% content-ref url="others/assuntos-para-chapters-e-workshops.md" %}
+[assuntos-para-chapters-e-workshops.md](others/assuntos-para-chapters-e-workshops.md)
+{% endcontent-ref %}
+
+
+
