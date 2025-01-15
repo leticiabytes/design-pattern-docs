@@ -18,7 +18,7 @@ Here are a couple of example overviews from products with really great docs:
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-## Overview
+
 
 {% content-ref url="overview/o-que-fazemos.md" %}
 [o-que-fazemos.md](overview/o-que-fazemos.md)
